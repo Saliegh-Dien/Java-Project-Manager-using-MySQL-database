@@ -9,4 +9,4 @@ User can edit/update existing projects
 User can add new customers, architects, contractors 
 User can view all projects 
 User can view specific projects 
-User can view overdue projects. Seen as mostly html on githubdue to JavaDocs
+User can view overdue projects. Seen as mostly html on github due to JavaDocs
